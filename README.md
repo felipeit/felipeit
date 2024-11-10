@@ -14,14 +14,6 @@
 <img title="Docker" alt="Docker Logo" height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"/>  
 </div>
 
-### Frontend
-<div>
-<img title="HTML5" alt="HTML5 Logo" height="32" width="32" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" />
-<img title="CSS3" alt="CSS3 Logo" height="32" width="32" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
-<img title="Tailwind CSS" alt="Tailwind CSS Logo" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/480px-Tailwind_CSS_Logo.svg.png" />
-<img title="Angular" alt="Angular Logo" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" />
-</div>
-
 <br/>
 <br/>
 
