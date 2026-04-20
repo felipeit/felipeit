@@ -6,15 +6,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeit&show_icons=true&theme=transparent"/>
 
 </div>
-<h3 align="left">Ferramentas:</h3>
-<p align="left">
-    <img title="Python" alt="Python Logo" height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-    <img title="JavaScript" alt="JavaScript Logo" height="32" width="32" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
-    <img title="TypeScript" alt="TypeScript Logo" height="32" width="32" src="https://miro.medium.com/max/256/1*tYwniVWMqcytJ1AQ6zud7A.png" />
-    <img title="Django Rest" alt="Django Rest Logo" height="32" width="32" src="https://iconape.com/wp-content/png_logo_vector/django.png" />
-    <img title="Postgres" alt="Postgres Logo" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
-    <img title="Docker" alt="Docker Logo" height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"/> 
-</p>
 
 <h3 align="left">Contato:</h3>
 <p align="left">
