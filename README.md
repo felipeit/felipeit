@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Felipe. 👋</h1>
 <h3 align="center">I am a master's student at UNESP researching the automatic transcription and indexing of historical manuscripts, with a focus on document image analysis and machine learning. My research explores computer vision, convolutional and recurrent neural networks, and large language models (LLMs) to support the recognition, transcription, and semantic indexing of historical documents.
-<br>
-I also work as a Backend Engineer with a strong Python background, with professional experience since 2014 developing scalable systems, microservices, monolithic applications, APIs, and data pipelines.</h3>
+</h3>
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeit&show_icons=true&theme=transparent"/>
